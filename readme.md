@@ -30,7 +30,7 @@ json文件格式：
     {
         "id": 2,
         "title": "Palm 2 technical report"
-    },
+    }
 ]
 ```
 
