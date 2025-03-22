@@ -9,6 +9,8 @@ windows环境适用
 ## chrome 浏览器114版下载安装(默认路径)
 > https://dl.google.com/release2/chrome/ackrdjaxyfituopzhu56unhz6weq_114.0.5735.91/114.0.5735.91_chrome_installer.exe
 
+注意禁用chrome自动更新，否则会导致无法运行。
+
 ## chromedriver下载
 
 直接在本仓库中下载chromedriver.exe即可。
